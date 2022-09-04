@@ -1,0 +1,17 @@
+C:\Users\Yasin\Documents\GitHub\Json_Read_Write\Json_Read_Write\Json_Read_Write\bin\Debug\netcoreapp3.1\Json_Read_Write.exe
+C:\Users\Yasin\Documents\GitHub\Json_Read_Write\Json_Read_Write\Json_Read_Write\bin\Debug\netcoreapp3.1\exampleData.json
+C:\Users\Yasin\Documents\GitHub\Json_Read_Write\Json_Read_Write\Json_Read_Write\bin\Debug\netcoreapp3.1\Json_Read_Write.deps.json
+C:\Users\Yasin\Documents\GitHub\Json_Read_Write\Json_Read_Write\Json_Read_Write\bin\Debug\netcoreapp3.1\Json_Read_Write.runtimeconfig.json
+C:\Users\Yasin\Documents\GitHub\Json_Read_Write\Json_Read_Write\Json_Read_Write\bin\Debug\netcoreapp3.1\Json_Read_Write.runtimeconfig.dev.json
+C:\Users\Yasin\Documents\GitHub\Json_Read_Write\Json_Read_Write\Json_Read_Write\bin\Debug\netcoreapp3.1\Json_Read_Write.dll
+C:\Users\Yasin\Documents\GitHub\Json_Read_Write\Json_Read_Write\Json_Read_Write\bin\Debug\netcoreapp3.1\Json_Read_Write.pdb
+C:\Users\Yasin\Documents\GitHub\Json_Read_Write\Json_Read_Write\Json_Read_Write\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Yasin\Documents\GitHub\Json_Read_Write\Json_Read_Write\Json_Read_Write\obj\Debug\netcoreapp3.1\Json_Read_Write.csproj.AssemblyReference.cache
+C:\Users\Yasin\Documents\GitHub\Json_Read_Write\Json_Read_Write\Json_Read_Write\obj\Debug\netcoreapp3.1\Json_Read_Write.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yasin\Documents\GitHub\Json_Read_Write\Json_Read_Write\Json_Read_Write\obj\Debug\netcoreapp3.1\Json_Read_Write.AssemblyInfoInputs.cache
+C:\Users\Yasin\Documents\GitHub\Json_Read_Write\Json_Read_Write\Json_Read_Write\obj\Debug\netcoreapp3.1\Json_Read_Write.AssemblyInfo.cs
+C:\Users\Yasin\Documents\GitHub\Json_Read_Write\Json_Read_Write\Json_Read_Write\obj\Debug\netcoreapp3.1\Json_Read_Write.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\Documents\GitHub\Json_Read_Write\Json_Read_Write\Json_Read_Write\obj\Debug\netcoreapp3.1\Json_Read_Write.csproj.CopyComplete
+C:\Users\Yasin\Documents\GitHub\Json_Read_Write\Json_Read_Write\Json_Read_Write\obj\Debug\netcoreapp3.1\Json_Read_Write.dll
+C:\Users\Yasin\Documents\GitHub\Json_Read_Write\Json_Read_Write\Json_Read_Write\obj\Debug\netcoreapp3.1\Json_Read_Write.pdb
+C:\Users\Yasin\Documents\GitHub\Json_Read_Write\Json_Read_Write\Json_Read_Write\obj\Debug\netcoreapp3.1\Json_Read_Write.genruntimeconfig.cache

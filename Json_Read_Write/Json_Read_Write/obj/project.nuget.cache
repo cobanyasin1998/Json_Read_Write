@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "obPxBN0TfOSGgJLAcpTAgOPfws0axifs29EoWr+eQPt/185je9+I/pAQ8nLuZa+K4sv3PE3m+/P8jSeTpnzM3Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yasin\\Documents\\GitHub\\Json_Read_Write\\Json_Read_Write\\Json_Read_Write\\Json_Read_Write.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yasin\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
